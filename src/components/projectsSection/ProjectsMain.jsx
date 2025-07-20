@@ -8,14 +8,14 @@ const projects = [
     name: "Library Management System",
     year: "May2024",
     align: "right",
-    image: "../../public/images/website-img-2.jpg",
+    image: "/images/website-img-2.jpg",
     link: "https://library-management-system-eight-sigma.vercel.app/",
   },
   {
     name: "Organ Donation Camp",
     year: "Aug2024",
     align: "left",
-    image: "../../public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     link: "https://organ-donation-camp.vercel.app/",
   },
  
@@ -23,14 +23,14 @@ const projects = [
     name: "Balance Board",
     year: "Dec2024",
     align: "right",
-    image: "../../public/images/website-img-3.jpg",
+    image: "/images/website-img-3.jpg",
     link: "https://balance-board-beta.vercel.app/",
   },
   {
     name: "Brain Tumor Predictor",
     year: "Jun2025",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: "/images/website-img-4.jpg",
     link: "https://www.kaggle.com/code/sekhaship097/braintumor",
   },
 ];
